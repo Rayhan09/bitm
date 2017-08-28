@@ -1,0 +1,11 @@
+{
+    "autoload": {
+        "psr-4": {
+            "BitmCourseApp\\": "Src"
+        }
+    },
+    "require": {
+        "mpdf/mpdf": "^6.1",
+        "phpoffice/phpexcel": "^1.8"
+    }
+}
